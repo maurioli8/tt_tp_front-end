@@ -1,0 +1,36 @@
+{
+  "productos": [
+    {
+      "nombre": "Mouse Inalámbrico",
+      "descripcion": "Ergonómico y preciso, ideal para oficina y gaming.",
+      "precio": "$350",
+      "imagen": "assets/multimedia/mouse.png"
+    },
+    {
+      "nombre": "Teclado Mecánico",
+      "descripcion": "Retroiluminado, switches azules, excelente para programadores.",
+      "precio": "$1200",
+      "imagen": "assets/multimedia/teclado.png"
+    },
+    {
+      "nombre": "Auriculares Bluetooth",
+      "descripcion": "Sonido envolvente y batería de larga duración.",
+      "precio": "$800",
+      "imagen": "assets/multimedia/auricular.png"
+    }
+  ],
+  "reseñas": [
+    {
+      "autor": "Juan Pérez",
+      "texto": "El mouse es muy cómodo y la batería dura mucho. ¡Recomendado!"
+    },
+    {
+      "autor": "María Gómez",
+      "texto": "El teclado tiene una excelente respuesta y es muy bonito."
+    },
+    {
+      "autor": "Carlos Ruiz",
+      "texto": "Los auriculares tienen buen sonido y son fáciles de conectar."
+    }
+  ]
+}
