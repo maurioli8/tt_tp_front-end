@@ -1,5 +1,7 @@
 # Pre-Entrega de Proyecto - Talento Tech Front-end
 
+![Preview del proyecto](preview.png)
+
 **Autor:** Mauricio Olivera
 
 ## Propósito
